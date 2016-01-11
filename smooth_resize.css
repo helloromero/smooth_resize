@@ -1,0 +1,9 @@
+* {
+    -webkit-transition: all .4s cubic-bezier(0, 1.115, .415, .975);
+    transition: all .4s cubic-bezier(0, 1.115, .415, .975);
+}
+
+.smooth_resize {
+    -webkit-transition: all .4s cubic-bezier(0, 1.115, .415, .975);
+    transition: all .4s cubic-bezier(0, 1.115, .415, .975);
+}
